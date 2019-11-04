@@ -4,3 +4,6 @@ sdfsdfsdf
 dfbcvbcvb
 cbncbcb
 rsersf
+new line
+hello world
+tin tanki
